@@ -92,7 +92,9 @@ Note that if `php artisan serve` fails on Windows, using PHP’s built-in server
 This project is open-source and available for learning and demonstration purposes.
 
 
+## Site Demo
 
+https://github.com/user-attachments/assets/741e06e2-250d-4fc0-8f17-8beb65f74033
 
 
 
